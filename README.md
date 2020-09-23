@@ -12,4 +12,4 @@
 运行mainUI.py即可
 
 ## 界面展示
-![Image text]("./pictureOfUI/1.png")
+![Image text](pictureOfUI/1.png)
